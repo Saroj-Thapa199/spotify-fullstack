@@ -9,7 +9,7 @@ import ListAlbum from './pages/ListAlbum';
 import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 
-export const url = 'https://spotify-backend-k81v.onrender.com/'
+export const url = 'https://spotify-backend-k81v.onrender.com'
 
 const App = () => {
   return (
